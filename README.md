@@ -1,3 +1,3 @@
-# Time Calculator
-### No more hassle with time calculation - just use this app!
+# Time Calculator num-mode
+### Not finished version!
 You can get it here: bin/release/Time Calculator.exe 
