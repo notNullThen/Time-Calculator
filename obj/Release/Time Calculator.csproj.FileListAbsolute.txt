@@ -30,3 +30,19 @@ D:\OneDrive\code\VSCommunity\Time Calculator\obj\Release\Time Calculator.csproj.
 D:\OneDrive\code\VSCommunity\Time Calculator\obj\Release\Time Calculator.csproj.CoreCompileInputs.cache
 D:\OneDrive\code\VSCommunity\Time Calculator\obj\Release\Time Calculator.exe
 D:\OneDrive\code\VSCommunity\Time Calculator\obj\Release\Time Calculator.pdb
+C:\Users\zHENK\Desktop\tempor\bin\Release\Time Calculator.exe.config
+C:\Users\zHENK\Desktop\tempor\bin\Release\Time Calculator.exe
+C:\Users\zHENK\Desktop\tempor\bin\Release\Time Calculator.pdb
+C:\Users\zHENK\Desktop\tempor\obj\Release\Time Calculator.csproj.AssemblyReference.cache
+C:\Users\zHENK\Desktop\tempor\obj\Release\Time Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\zHENK\Desktop\tempor\obj\Release\MainWindow.g.cs
+C:\Users\zHENK\Desktop\tempor\obj\Release\App.g.cs
+C:\Users\zHENK\Desktop\tempor\obj\Release\Time Calculator_MarkupCompile.cache
+C:\Users\zHENK\Desktop\tempor\obj\Release\Time Calculator_MarkupCompile.lref
+C:\Users\zHENK\Desktop\tempor\obj\Release\MainWindow.baml
+C:\Users\zHENK\Desktop\tempor\obj\Release\Time Calculator.g.resources
+C:\Users\zHENK\Desktop\tempor\obj\Release\Time_Calculator.Properties.Resources.resources
+C:\Users\zHENK\Desktop\tempor\obj\Release\Time Calculator.csproj.GenerateResource.cache
+C:\Users\zHENK\Desktop\tempor\obj\Release\Time Calculator.csproj.CoreCompileInputs.cache
+C:\Users\zHENK\Desktop\tempor\obj\Release\Time Calculator.exe
+C:\Users\zHENK\Desktop\tempor\obj\Release\Time Calculator.pdb
