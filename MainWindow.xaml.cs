@@ -17,6 +17,7 @@ namespace Time_Calculator
         public void calculateBtn_Click(object sender, RoutedEventArgs e)
         {
             TimeCalculator();
+            dayTxtBox2nd.Focus();
         }
         private void OnPreviewKeyDown(object sender, KeyEventArgs e)
         {
@@ -24,7 +25,6 @@ namespace Time_Calculator
             {
                 calculateBtn_Click(sender, e);
                 e.Handled = true; // Optional: prevent other controls from handling the event
-                dayTxtBox2nd.Focus();
             }
             if (e.Key == Key.Delete)
             {
